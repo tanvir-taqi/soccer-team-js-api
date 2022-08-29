@@ -1,0 +1,14 @@
+
+
+body{
+    background: rgb(249, 255, 225);
+}
+input{
+    width: 120px;
+}
+.clicked{
+    color: yellowgreen;
+}
+.card-image{
+    width: 200px;
+}
